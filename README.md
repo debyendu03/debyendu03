@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, my name is Debyendu Biswas 👋</h1>
+<h3 align="center">Frontend Developer</h3>
 
-<!--
-**debyendu03/debyendu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build clean, responsive web interfaces with React and Tailwind CSS.<br>
+  Experienced with modern JS tooling and always sharpening my frontend skills.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,wordpress" />
+</p>
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:debyendu03@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/debyendu03">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/debyendu03">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/debyendu03">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://debyendu03.vercel.app">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f310.png" width="48" height="48" />
+  </a>
+</p>
